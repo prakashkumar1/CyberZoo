@@ -1,0 +1,38 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#4caf50</item>
+        <item name="colorPrimaryDark">#388e3c</item>
+        <item name="colorAccent">#04724D</item>
+
+    </style>
+
+    <style name="customStyle" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#4caf50</item>
+        <item name="colorPrimaryDark">#388e3c</item>
+        <item name="colorAccent">#ffffff</item>
+        <item name="android:textColorSecondary">@color/greenDark</item>
+        <item name="android:textColor">@color/green</item>
+    </style>
+
+    <style name="customSettingsStyle" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#4caf50</item>
+        <item name="colorPrimaryDark">#388e3c</item>
+        <item name="colorAccent">@color/greenDark</item>
+        <item name="android:textColorSecondary">@color/greenDark</item>
+        <item name="android:textColor">@color/greenDark</item>
+    </style>
+
+    <style name="customBlueStyle" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/buttonColor</item>
+        <item name="colorPrimaryDark">@color/blueDark</item>
+        <item name="colorAccent">@color/white</item>
+        <item name="android:textColorSecondary">@color/buttonColor</item>
+        <item name="android:textColor">@color/buttonColor</item>
+    </style>
+
+
+
+</resources>

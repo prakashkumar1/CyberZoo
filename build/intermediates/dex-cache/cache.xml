@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\darshanMil\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\darshanMil\app\build\intermediates\pre-dexed\debug\classes-c357d06c2fa27c39ca5dcee7ba788a59bf58b920.jar" />
+    </item>
+    <item
+        jar="C:\Users\PK Menon\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\darshanMil\app\build\intermediates\pre-dexed\debug\library-2.4.0-68f41e52be3beb1147e7d2f20522969fdec9bbe8.jar" />
+    </item>
+    <item
+        jar="D:\darshanMil\app\build\intermediates\exploded-aar\darshanMil.libraries\RippleEffect\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="805b9ac3a36d98826c56132eadc83517ecf250c3">
+        <dex dex="D:\darshanMil\app\build\intermediates\pre-dexed\debug\classes-c91d0eb6bbe9f643539e82272633293bab1ef179.jar" />
+    </item>
+    <item
+        jar="D:\darshanMil\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="D:\darshanMil\app\build\intermediates\pre-dexed\debug\classes-a169d0e08a379946656681df5eaac56e3661eb0d.jar" />
+    </item>
+    <item
+        jar="D:\darshanMil\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\darshanMil\app\build\intermediates\pre-dexed\debug\classes-f95edbabe777d2bb3ea7087db34c4921aac8934b.jar" />
+    </item>
+    <item
+        jar="C:\Users\PK Menon\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\darshanMil\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-de1216073a1521f3a224310086e2676edc38beaf.jar" />
+    </item>
+    <item
+        jar="D:\darshanMil\app\build\intermediates\exploded-aar\darshanMil.libraries\library1\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b9e4b1fdcade831046891b62c44fab63dade3f05">
+        <dex dex="D:\darshanMil\app\build\intermediates\pre-dexed\debug\classes-2038578dc76e32e013cfc8ad0cd6489df8289fe3.jar" />
+    </item>
+    <item
+        jar="D:\darshanMil\app\build\intermediates\exploded-aar\darshanMil.libraries\MaterialDesign\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="41f4fa77b0322ef216ce13f5caa0cf3eb94ff821">
+        <dex dex="D:\darshanMil\app\build\intermediates\pre-dexed\debug\classes-50f71c366cb079c09111141023771f609faf4d96.jar" />
+    </item>
+    <item
+        jar="D:\darshanMil\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="D:\darshanMil\app\build\intermediates\pre-dexed\debug\classes-ef7b3a6ecca3ea863f47c069c4c1551d87a1cae9.jar" />
+    </item>
+    <item
+        jar="D:\darshanMil\app\build\intermediates\exploded-aar\com.daimajia.easing\library\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e88a9ed27f98f8c0701d03d5553ce6111ca34a5b">
+        <dex dex="D:\darshanMil\app\build\intermediates\pre-dexed\debug\classes-2a826ec1cf53b96dc466e9e1b21751835e1e3e24.jar" />
+    </item>
+    <item
+        jar="D:\darshanMil\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\darshanMil\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-a866088671a35ce0b29f5227d51a2eb336c01207.jar" />
+    </item>
+
+</items>

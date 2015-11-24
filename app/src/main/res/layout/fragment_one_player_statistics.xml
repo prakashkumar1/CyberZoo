@@ -1,0 +1,181 @@
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.twinvaves.darshan.darshantestproject.StatisticsActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/round_tv"
+            android:text="5"
+            android:id="@+id/tvGamesPlayed"
+            android:gravity="center"
+            android:textColor="@color/buttonColor"
+            android:textSize="30sp"
+            android:layout_marginTop="10dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_margin="3dp" />
+
+        <com.gc.materialdesign.views.ButtonRectangle
+            android:id="@+id/GamesPlayed"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#1E88E5"
+            android:textSize="15sp"
+            android:elevation="4dp"
+            android:text="Games Played"
+            android:layout_margin="3dp"
+
+            android:layout_marginRight="10dp"
+            android:layout_alignBottom="@+id/tvGamesPlayed"
+            android:layout_alignTop="@+id/tvGamesPlayed"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_toLeftOf="@+id/tvGamesPlayed"
+            android:layout_toStartOf="@+id/tvGamesPlayed" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/round_tv"
+            android:text="5"
+            android:id="@+id/tvGamesWon"
+            android:layout_margin="3dp"
+
+            android:gravity="center"
+            android:textColor="@color/buttonColor"
+            android:textSize="30sp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_below="@+id/tvGamesPlayed" />
+
+        <com.gc.materialdesign.views.ButtonRectangle
+            android:id="@+id/GamesWon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#1E88E5"
+            android:textSize="15sp"
+            android:elevation="4dp"
+            android:text="Games Won"
+            android:layout_marginRight="10dp"
+            android:layout_alignBottom="@+id/tvGamesWon"
+            android:layout_alignTop="@+id/tvGamesWon"
+            android:layout_margin="3dp"
+
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_toLeftOf="@+id/tvGamesWon"
+            android:layout_toStartOf="@+id/tvGamesWon" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/round_tv"
+            android:text="5"
+            android:id="@+id/tvGamesLost"
+            android:layout_margin="3dp"
+
+            android:gravity="center"
+            android:textColor="@color/buttonColor"
+            android:textSize="30sp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_below="@+id/tvGamesWon" />
+
+        <com.gc.materialdesign.views.ButtonRectangle
+            android:id="@+id/GamesLost"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#1E88E5"
+            android:textSize="15sp"
+            android:elevation="4dp"
+            android:text="Games Lost"
+            android:layout_marginRight="10dp"
+            android:layout_alignBottom="@+id/tvGamesLost"
+            android:layout_alignTop="@+id/tvGamesLost"
+            android:layout_margin="3dp"
+
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_toLeftOf="@+id/tvGamesLost"
+            android:layout_toStartOf="@+id/tvGamesLost" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/round_tv"
+            android:text="5"
+            android:id="@+id/tvGamesDraw"
+            android:layout_margin="3dp"
+
+            android:gravity="center"
+            android:textColor="@color/buttonColor"
+            android:textSize="30sp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_below="@+id/tvGamesLost" />
+
+        <com.gc.materialdesign.views.ButtonRectangle
+            android:id="@+id/GamesDraw"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#1E88E5"
+            android:textSize="15sp"
+            android:elevation="4dp"
+            android:text="Draws"
+            android:layout_marginRight="10dp"
+            android:layout_alignBottom="@+id/tvGamesDraw"
+            android:layout_alignTop="@+id/tvGamesDraw"
+            android:layout_margin="3dp"
+
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_toLeftOf="@+id/tvGamesDraw"
+            android:layout_toStartOf="@+id/tvGamesDraw" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/round_tv"
+            android:text="5"
+            android:id="@+id/tvWinPercentage"
+            android:layout_margin="3dp"
+
+            android:gravity="center"
+            android:textColor="@color/buttonColor"
+            android:textSize="30sp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_below="@+id/tvGamesDraw" />
+
+        <com.gc.materialdesign.views.ButtonRectangle
+            android:id="@+id/WinPercentage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#1E88E5"
+            android:textSize="15sp"
+            android:elevation="4dp"
+            android:text="Win Percentage"
+            android:layout_marginRight="10dp"
+            android:layout_alignBottom="@+id/tvWinPercentage"
+            android:layout_alignTop="@+id/tvWinPercentage"
+            android:layout_margin="3dp"
+
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_toLeftOf="@+id/tvWinPercentage"
+            android:layout_toStartOf="@+id/tvWinPercentage" />
+
+    </RelativeLayout>
+</ScrollView>

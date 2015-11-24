@@ -1,0 +1,4 @@
+include ':libraries:MaterialDesign'
+include ':libraries:RippleEffect'
+include ':libraries:library1'
+include ':app'
